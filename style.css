@@ -48,7 +48,7 @@ a {
 
 .navbar-links ul {
   flex-direction: column;
-  width: 100%;
+  width: 90%;
   /* justify-content: center;
   align-items: center;
   margin: 0;
@@ -99,6 +99,7 @@ a {
 h1 {
   text-align: center;
   align-items: center;
+  font-size: 24px;
 }
 
 h2 {
