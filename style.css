@@ -4,8 +4,8 @@
 }
 
 body {
-margin: 0;
-padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 p {
@@ -35,8 +35,8 @@ a {
 }
 
 .nav-bar img {
-max-width: 200px;
-max-height: 100px;
+  max-width: 200px;
+  max-height: 100px;
 }
 
 .navbar-links {
@@ -67,7 +67,7 @@ max-height: 100px;
 }
 
 .navbar-links li:hover {
-background-color: #555;
+  background-color: #555;
 }
 
 .navbar-links.active {
@@ -86,10 +86,10 @@ background-color: #555;
 }
 
 .toggle-button .bar {
-height: 3px;
-width: 100%;
-background-color: white;
-border-radius: 10px;
+  height: 3px;
+  width: 100%;
+  background-color: white;
+  border-radius: 10px;
 }
 
 .bio-info {
@@ -97,8 +97,8 @@ border-radius: 10px;
 }
 
 h1 {
-text-align: center;
-align-items: center;
+  text-align: center;
+  align-items: center;
 }
 
 h2 {
@@ -130,10 +130,10 @@ h4 {
 }
 
 section {
-align-items: center;
-text-align: center;
-/* margin: auto;
-max-width: 700px; */
+  align-items: center;
+  text-align: center;
+  /* margin: auto;
+  max-width: 700px; */
 }
 
 section img {
@@ -154,28 +154,32 @@ section img {
 }
 
 .cat-quiz {
-  font-size: 22px;
-  margin-bottom: -4px;
+  font-size: 20px;
+  margin-bottom: 2px;
   font-weight: bold;
 }
 
+.cat-quiz-des {
+  line-height: 1.7;
+}
+
 .git {
-display: block;
-margin-top: -8px;
+  display: block;
+  margin-top: -8px;
 }
 
 .contact-container {
-background-color: black;
-padding: 20px;
+  background-color: black;
+  padding: 20px;
 }
 
 .contactlogos {
-text-align: center;
+  text-align: center;
 }
 
 .contactlogos img {
-width: 32px;
-height: 32px;
+  width: 32px;
+  height: 32px;
 }
 
 /* If screen size is more than 700px wide. */
